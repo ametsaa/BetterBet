@@ -1,0 +1,22 @@
+
+
+src/home.php accueil du site, explication des règles
+src/login.php page de connexion
+src/registeration.php page d'inscription
+src/logout.php but: simple fichier pour se déconnecter, ce n'est pas une page.
+src/paris.php permet de voir la liste des paris et redirige vers le bon pari quand on en choisit un
+src/stake.php permet de miser sur un pari choisi précédemment
+src/profil.php permet de voir les informations de l'utilisateur avec la liste de tous ses paris finis ou non et d'en annuler un
+src/fonctions.php toutes les fonctions nécessaires au fonctionnement du site
+
+
+src/assets/css/bootstrap.css le fichier bootstrap
+src/assets/css/custom.css permet d'ajouter du contenu au framework bootstrap
+src/assets/css/font-awesome.css on récupère des icones pour le site
+
+src/assets/img/ dosiier contenant toute les images nécessaires au site.
+
+src/assets/font-awesome dossier contenant les fichiers necessaires au chargement des icones
+
+
+
