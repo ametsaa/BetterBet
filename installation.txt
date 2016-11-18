@@ -1,3 +1,0 @@
-Un utilisateur est déjà créé, il peut être utilisé.
-mail : boby@enseirb-matmeca.fr
-mot de pass: plongeur10
